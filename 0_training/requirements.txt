@@ -1,0 +1,6 @@
+# Python 3.9
+tensorflow-addons==0.16.0.dev0
+tensorflow-datasets==4.4.0
+tensorflow-macos==2.6.0
+tensorflow-metal==0.2.0
+opensea-dataset==0.0.1
